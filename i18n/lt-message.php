@@ -11,6 +11,7 @@
      */
 
     return array(
+    'Fancy Image Gallery' => 'Atvaizdų galerija',
     'Documentation' => 'Dokumentacija',
 	'Settings' => 'Nustatymai',
 	'Create Thumbnails - All fields are mandatory' => 'Sukurti miniatiūras - privaloma užpildyti visus laukus',

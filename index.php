@@ -19,9 +19,9 @@
 
 Plugin::setInfos(array(
     'id'          => 'fancy_image_gallery',
-    'title'       => 'Fancy Image Gallery',
+    'title'       => __('Fancy Image Gallery'),
     'description' => __('Provides easy to use image gallery with fancybox effect.'),
-    'version'     => '0.9.0',
+    'version'     => '0.9.1',
     'license'     => 'GPL',
     'author'      => 'Sanja Andjelkovic',
     'website'     => 'http://project79.net/',
